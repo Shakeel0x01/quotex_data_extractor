@@ -1,0 +1,5 @@
+qxmilker_async_v2/.idea
+qxmilker_async_v2/__pycache__
+
+*.pyc
+*.env
